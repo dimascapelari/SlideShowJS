@@ -52,7 +52,12 @@
 .action-button{
     color: white;
     background-color: #00000055;
-    border-radius: 10px;
+ /* border-radius: 10px; */
     cursor: pointer;
     transition: all 1s;
+}
+
+footer {
+    color: black;
+    text-align: center;
 }
